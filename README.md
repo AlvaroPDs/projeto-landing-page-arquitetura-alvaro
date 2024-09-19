@@ -1,3 +1,7 @@
 # projeto-landing-page-arquitetura-alvaro
 
-Meu repositório do projeto de arquitetura
+Landing page de Alvaro Palma 
+para empresa de arquitetura ...
+
+Link para pagina Netfly:
+Link da planilha de registração:
